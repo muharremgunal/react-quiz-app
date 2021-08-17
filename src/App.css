@@ -14,8 +14,10 @@ a {
 }
 
 .app {
-  min-height: 98.5vh;
-  border: 8px solid #39445a93;
-  margin: 5px;
-  pad: 5px;
+  min-height: 96vh;
+
+  margin-right: 15px;
+  padding: 20px;
+  background-color: #1f3447;
+  color: #fff;
 }
